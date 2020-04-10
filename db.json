@@ -33,7 +33,7 @@
 
      {"id": 12, "name": "3 idiots", "image" : "https://resizing.flixster.com/odYimEa8sdgIao8Sz-tSYfcxU4I=/206x305/v1.bTsxMTIzNzIzNDtqOzE4NDQ1OzEyMDA7MTUwMDsyMDAw", "imdb rating": 8.4}
   ],
-"users"[
-    {"id": 1, "firstName": "Super", lastName: "Admin", "username": "admin"}
+"users": [
+    {"id": 1, "firstName": "Super", "lastName": "Admin", "username": "admin"}
 ]
 }
