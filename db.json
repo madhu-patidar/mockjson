@@ -24,6 +24,8 @@
   
   ],
 "users": [
-    {"id": 1, "firstName": "Super", "lastName": "Admin", "username": "admin"}
+    {"id": 1, "firstName": "Super", "lastName": "Admin", "username": "admin"},
+  {"id": 2, "firstName": "Madhu", "lastName": "Patidar", "username": "user"},
+  {"id": 3, "firstName": "Hardik", "lastName": "Hardik", "username": "user2"}
 ]
 }
